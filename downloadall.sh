@@ -1,0 +1,1 @@
+sed 's/^/$1\//g' *.txt | xargs wget -P downloaded
