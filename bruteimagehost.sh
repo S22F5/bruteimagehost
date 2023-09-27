@@ -10,9 +10,9 @@ fi
 #info header output
 clear
 #------------
-printf ' ”””””””””””””””””””””””””””\n '
+printf '””””””””””””””””””””””””””””””\n'
 printf "\033[1mbruteimagehost.sh\033[0m\n"
-printf ' ”””””””””””””””””””””””””””\n '
+printf '””””””””””””””””””””””””””””””\n'
 #
 printf "%s | s22f3\n" "$1"
 #
